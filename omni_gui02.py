@@ -132,7 +132,7 @@ def main():
     # Folder selection
     folder_path = st.text_input(
         "🎯 Enter the folder path containing your Omnivore JSON files below: ",
-        placeholder="e.g., D:\omni_backup"
+        placeholder=r"e.g., D:\omni_backup"
     )
     
     if folder_path:
