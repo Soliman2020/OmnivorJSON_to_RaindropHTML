@@ -122,7 +122,7 @@ def main():
     4. Click 'Convert to Raindrop format' to process the files.
     5. Download the generated HTML file.
     6. Import the HTML file into Raindrop.
-    > Now all of your articles are on Raindrop with its corresponding tags. 🎉
+    > Now all of your articles are on Raindrop with their corresponding tags. 🎉
     """)
     
     # File uploader
